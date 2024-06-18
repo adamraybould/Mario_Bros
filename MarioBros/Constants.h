@@ -1,0 +1,23 @@
+#pragma once
+
+#define SCREEN_WIDTH 544
+#define SCREEN_HEIGHT 448
+
+#define MAP_WIDTH 16
+#define MAP_HEIGHT 13
+
+#define TILE_WIDTH 32
+#define TILE_HEIGHT 32
+
+#define GRAVITY 300.0f
+#define JUMP_FORCE_DECREMENT 1100.0f
+
+#define POW_BLOCK_JUMP 2000.0f
+
+#define PLAYER_SPAWN_DELAY 2.0f
+#define SPAWN_TIME 4.0f
+
+#define SCREENSHAKE_DURATION 0.25f
+
+#define ENEMY_POINT_SPEED 30.0f
+#define ENEMY_POINT_TIME 0.8f
